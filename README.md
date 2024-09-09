@@ -1,2 +1,2 @@
 # revival_datapack
-made by mrChickenRibs
+made by mrChickenribs
